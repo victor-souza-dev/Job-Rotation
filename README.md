@@ -12,12 +12,14 @@ Para iniciar o projeto e testar suas funcionalidades, siga as seguintes instruç
 - Execute o seguinte comando para instalar as dependências do projeto:
 <br/>
 Copie o código:
-```npm install```
+<br/>
+<code>npm install<code/>
 <br/>
 - Após a instalação das dependências, execute o seguinte comando para iniciar o projeto:
 <br/>
 Copie o código:
-```npm start```
+<br/>
+<code>npm start<code/>
 <br/>
 <br/>
 Siga as instruções exibidas no terminal para interagir com o projeto.
