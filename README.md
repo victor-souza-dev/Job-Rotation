@@ -2,6 +2,8 @@
 
 ## Para iniciar o projeto e testar suas funcionalidades, siga as seguintes instruções:
 
+- Clone o repositório: `git clone https://github.com/KlowdyTMS/Job-Rotation.git`
+
 - Certifique-se de que o Node.js esteja instalado na sua máquina. 
 
 - Você pode baixar e instalar o Node.js através do site oficial: https://nodejs.org/
