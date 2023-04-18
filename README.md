@@ -21,3 +21,19 @@ Após a instalação das dependências, execute o seguinte comando para iniciar 
 
 Siga as instruções exibidas no terminal para interagir com o projeto.
 Obs: Certifique-se de que o terminal esteja aberto na pasta raiz do projeto ao executar os comandos acima.
+
+<br/>
+
+# Exercícios
+
+## Exercício 2
+Faça um algoritmo que capture um valor e com base nesse valor, determine se ele faz ou não parte da sequência de Fibonnaci e retorne esse resultado.
+
+## Exercício 3
+Com base nos dados.json, retorne o menor ou o maior valor, desconsiderando valores iguais a 0.
+
+## Exercício 4
+Pegue todos os valores do json disponibilizado, some-os e traga a porcentagem do valor unitário de cada estado em relação a essa soma de todos os valores.
+
+## Exercício 5
+Faça um algoritmo que inverta uma string, sem usar métodos prontos.
